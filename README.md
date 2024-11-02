@@ -6,6 +6,8 @@ Neste projeto, foquei em criar uma aplicação de relógio responsiva que exibe 
 
 <h2 align="left">Tecnologias usadas / Used Techs</h2>
 
+<h2 align="left">Tecnologias usadas / Used Techs</h2>
+
 ###
 
 <div align="left">
@@ -14,6 +16,12 @@ Neste projeto, foquei em criar uma aplicação de relógio responsiva que exibe 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img height="200" src="https://github.com/luizcarvalhosilva/react-watch/blob/main/src/assets/react-watch-prt.png"  />
 </div>
 
 ###
