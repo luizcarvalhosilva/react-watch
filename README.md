@@ -6,8 +6,6 @@ Neste projeto, foquei em criar uma aplicação de relógio responsiva que exibe 
 
 <h2 align="left">Tecnologias usadas / Used Techs</h2>
 
-<h2 align="left">Tecnologias usadas / Used Techs</h2>
-
 ###
 
 <div align="left">
